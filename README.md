@@ -1,2 +1,2 @@
 # Calculator_App
-Calculator APP / using - JavaScript - Html &amp; - Css
+Calculator APP / using - JavaScript - Html & - Css
